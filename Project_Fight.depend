@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1622709092 source:c:\users\megaport\desktop\pf\project_fight\project_fight\banner_segni.cpp
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	"game.h"
+
+1622709349 c:\users\megaport\desktop\pf\project_fight\project_fight\game.h
+
+1622709248 source:c:\users\megaport\desktop\pf\project_fight\project_fight\esecuzione_progetto.cpp
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	"game.h"
+
+1622709306 source:c:\users\megaport\desktop\pf\project_fight\project_fight\esito_round.cpp
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	"game.h"
+
+1622709406 source:c:\users\megaport\desktop\pf\project_fight\project_fight\loading_del_gioco.cpp
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	"game.h"
+
+1622709026 source:c:\users\megaport\desktop\pf\project_fight\project_fight\main.cpp
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	"game.h"
+
+1622709485 source:c:\users\megaport\desktop\pf\project_fight\project_fight\project_fight.cpp
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	"game.h"
+
+1622709627 source:c:\users\megaport\desktop\pf\project_fight\project_fight\regole.cpp
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	"game.h"
+
+1622709681 source:c:\users\megaport\desktop\pf\project_fight\project_fight\stampa_del_segno.cpp
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	"game.h"
+
+1622709725 source:c:\users\megaport\desktop\pf\project_fight\project_fight\verifica_del_vincitore.cpp
+	<unistd.h>
+	<windows.h>
+	<conio.h>
+	<iostream>
+	<time.h>
+	"game.h"
+
